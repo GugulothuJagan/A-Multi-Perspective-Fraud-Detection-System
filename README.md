@@ -43,7 +43,7 @@ pip install django mysqlclient numpy pandas scikit-learn matplotlib joblib
 ## Project Setup
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/GugulothuJagan/Multi-Perspective-Fraud-Detection-System.git
+git clone https://github.com/GugulothuJagan/A-Multi-Perspective-Fraud-Detection-System.git
 cd Multi-Perspective-Fraud-Detection-System
 
 ```
