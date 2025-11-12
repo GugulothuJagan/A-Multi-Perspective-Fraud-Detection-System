@@ -94,9 +94,9 @@ Real-time transaction monitoring
 Hybrid anomaly detection for improved accuracy
 ## Author
 
-Lakshminarasimha Swamy Vithanala  
-Email: lakshminarasimhaswamyvithanala@gmail.com  
-GitHub: [https://github.com/Vithanala](https://github.com/VithanalaLakshminarasimhaSwamy)
+Gugulothu Jagan 
+Email: 228r1a6686@gmail.com  
+GitHub: [https://github.com/GugulothuJagan](https://github.com/GugulothuJagan)
 
 
 ## License
